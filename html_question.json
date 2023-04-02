@@ -1,0 +1,106 @@
+[
+    {
+        "title" : "why we use <br> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <div> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <span> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text dn",
+        "right_answer" : "To Make The Text dn"
+    },
+    {
+        "title" : "why we use <audio> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <body> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <head> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <title> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <meta> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <style> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <script> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <img> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <h1> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    },
+    {
+        "title" : "why we use <h2> element",
+        "answer_1" : "To Make The Text bold",
+        "answer_2" : "To Make The Text italic",
+        "answer_3" : "To Make The Text high",
+        "answer_4" : "To Make The Text span",
+        "right_answer" : "To Make The Text span"
+    }
+]
